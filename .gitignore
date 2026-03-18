@@ -1,0 +1,29 @@
+# Gradle / Build
+.gradle/
+build/
+app/build/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Sistema
+.DS_Store
+
+# Archivos locales
+local.properties
+captures/
+
+# 🔴 Seguridad
+*.jks
+*.keystore
+keystore.properties
+google-services.json
